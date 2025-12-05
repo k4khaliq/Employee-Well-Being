@@ -1,0 +1,114 @@
+EMPLOYEE WELLBEING AND BURNOUT FRAMEWORK
+Version: 1.0
+Effective Date: January 2026
+Department: Human Resources & People Analytics
+Classification: Company‑Wide Framework
+
+1. PURPOSE AND SCOPE
+This framework connects multiple HR policies into a single model for detecting, preventing, and responding to burnout and wellbeing risks. It links workload, flexible work, recognition, mental health support, and performance management.
+
+It applies to all employees and is intended to guide managers, HR, and leadership in day‑to‑day decisions.
+
+2. EARLY‑RISK SIGNALS
+Managers and HR should monitor the following objective signals:
+- Sustained weekly hours > 48 over 4+ weeks
+- Self‑reported stress ≥ 7/10 in two consecutive measurements
+- Sudden or sustained drop in performance or quality from a previously reliable employee
+- Pattern of unplanned absences and sick days
+- Noticeable withdrawal from collaboration or behavior changes
+
+If at least two signals are present, the employee is considered “At‑Risk” and a wellbeing check‑in is required.
+
+3. WELLBEING CHECK‑IN PROCESS
+3.1 Timing
+A wellbeing check‑in must be scheduled within 5 business days after risk signals trigger.
+
+3.2 Conversation Structure
+Managers should:
+- Open with a neutral, supportive question about how work and life are going
+- Ask about workload, priorities, and constraints
+- Avoid judgmental language or assumptions
+- Explain that the purpose is support, not discipline
+- Discuss concrete options (flexible work, workload changes, EAP, leave, development support)
+
+3.3 Documentation
+Managers document:
+- Date of conversation
+- Main issues discussed (in non‑clinical language)
+- Agreed actions and timelines
+- Date of follow‑up
+
+Notes are stored in secure HR systems with limited access.
+
+4. INTERVENTION LEVELS
+The framework uses three levels, aligned with the Burnout Prevention Policy.
+
+4.1 Level 1 – Light Adjustment
+Used when risk is emerging but performance is still largely intact.
+
+Typical actions:
+- Clarify priorities; postpone/de‑scope lower‑value tasks
+- Block recurring focus time in the calendar
+- Encourage taking existing PTO or mental health days
+- Adjust meeting load where possible
+
+4.2 Level 2 – Structured Support Plan
+Used when burnout risk is clearly affecting performance or wellbeing.
+
+Typical components:
+- Temporary cap on weekly hours and overtime
+- Clear boundaries on after‑hours communication
+- Short‑term flexible or hybrid work arrangement
+- Planned use of EAP or coaching
+- Weekly or bi‑weekly check‑ins over 4–8 weeks
+
+4.3 Level 3 – Formal Leave or Role Change
+Used when the employee cannot sustain current work safely.
+
+Options:
+- Burnout recovery or medical leave under Leave and Time‑Off Policy
+- Temporary or permanent move to lower‑intensity work
+- Reduced hours or part‑time schedule
+
+Level 3 actions require HR involvement and leadership awareness.
+
+5. ROLES AND RESPONSIBILITIES
+Employees:
+- Speak up early when workload or stress becomes unsustainable.
+- Participate actively in agreed support plans.
+- Use available programs (EAP, PTO, flexible work) as needed.
+
+Managers:
+- Monitor risk signals using accessible data and observation.
+- Conduct wellbeing check‑ins promptly.
+- Apply intervention levels consistently and without bias.
+- Escalate to HR early when patterns emerge across multiple team members.
+
+HR and People Analytics:
+- Provide dashboards and reports on key risk indicators (e.g., hours, absence, engagement).
+- Train managers and leaders on interpreting data and having constructive conversations.
+- Identify structural or systemic causes (e.g., staffing, targets, incentives) and recommend fixes.
+
+Leadership:
+- Set realistic expectations for pace, deadlines, and growth.
+- Ensure staffing and resources match business goals.
+- Reinforce that sustainable performance is a strategic priority, not a “nice to have”.
+
+6. DATA AND ANALYTICS
+The company may use aggregated data to identify risk patterns, such as:
+- Work hours and overtime trends
+- Absence and attrition patterns
+- Engagement, wellbeing, and manager‑effectiveness survey results
+- Usage of EAP, flexible work, and leave (anonymized where required)
+
+Use of individual‑level data is limited to supportive interventions and must comply with privacy laws and internal data protection standards.
+
+7. RELATIONSHIP TO OTHER POLICIES
+This framework supports and does not replace:
+- Mental Health and Wellness Policy
+- Burnout Prevention Policy
+- Flexible Work and Work‑Life Balance Policy
+- Leave and Time‑Off Policy
+- Performance Management and Feedback practices
+
+In case of conflict, formal policies and applicable laws take precedence.
