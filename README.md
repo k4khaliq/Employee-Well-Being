@@ -211,7 +211,7 @@ You're ready to explore:
 ├── rag_engine.py             # HR Policy RAG Engine
 ├── llm_integration.py        # Ollama / OpenAI LLM wrapper
 ├── config.py                 # Configuration and model settings
-├── policies/                 # HR policy text files for RAG
+├── hr_policies/              # HR policy text files for RAG
 ├── data/                     # Training and prediction datasets
 ├── requirements.txt          # Python dependencies
 └── README.md                 # This file!
